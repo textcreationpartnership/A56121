@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon at the funeral of the learned and ingenious Mrs. Ann Baynard daughter and only child of Dr. Edward Baynard, Fellow of the Colledge of Physicians, London. Together with some remarkable passages in her life. Preached at the parish-church of Barnes in the county of Surry, June the 16th. 1697. By John Prude, A.M. chaplain to his Grace the Duke of Norfolk, and curate of St. Clements Danes in the county of Middlesex. Published at the desire of her friends.</title>
+            <author>Prude, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56121</idno>
+            <idno type="STC">Wing P3881</idno>
+            <idno type="STC">ESTC R218353</idno>
+            <idno type="EEBO-CITATION">99829956</idno>
+            <idno type="PROQUEST">99829956</idno>
+            <idno type="VID">34403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34403)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon at the funeral of the learned and ingenious Mrs. Ann Baynard daughter and only child of Dr. Edward Baynard, Fellow of the Colledge of Physicians, London. Together with some remarkable passages in her life. Preached at the parish-church of Barnes in the county of Surry, June the 16th. 1697. By John Prude, A.M. chaplain to his Grace the Duke of Norfolk, and curate of St. Clements Danes in the county of Middlesex. Published at the desire of her friends.</title>
+                  <author>Prude, John.</author>
+               </titleStmt>
+               <extent>[8], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Daniel Brown at the Black Swan and Bible without Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XCVII. [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an advert. leaf on pg. [8].</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34403:1" rendition="simple:additions"/>
+            <p>A SERMON AT THE FUNERAL Of the Learned and Ingenious Mrs. <hi>Ann Baynard,</hi> Daughter and only Child of Dr. <hi>Edward Bay<g ref="char:EOLhyphen"/>nard,</hi> Fellow of the Colledge of Phyſicians,
+<hi>London.</hi> Together with ſome Remarkable Paſſages in her Life. Preached at the Pariſh-Church of <hi>Barnes</hi> in the County of <hi>Surry, June</hi> the 16th. 1697.</p>
+            <p>By <hi>John Prude,</hi> A. M. Chaplain to his Grace the Duke of <hi>Norfolk,</hi> and Curate of St. <hi>Clements Danes</hi> in the County of <hi>Middleſex.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed at the deſire of her Friends.</hi>
+            </p>
+            <q>
+               <p>Immodicis brevis eſt aetas &amp; rara ſenectus,</p>
+               <bibl>
+                  <hi>Mar. lib. 6.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Daniel Brown</hi> at the <hi>Black Swan</hi> and <hi>Bible</hi> without <hi>Temple-Bar.</hi> MDCXCVII.</p>
+            <pb facs="tcp:34403:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34403:3" rendition="simple:additions"/>
+            <p>TO THE Moſt Pious and Vertuous Lady, The Honourable Lady MARY FANE, Eldeſt Daughter to the Right Honourable <hi>VEER</hi> Late Earl of WESTMORLAND: To the Vertuous and Pious Ladies,
+<list>
+                  <item>The Lady CATHERINE LONGUEVIL;</item>
+                  <item>The Lady RACHEL DELVES of <hi>Dodington</hi> in <hi>Cheſhire.</hi>
+                  </item>
+                  <item>Madam <hi>Mary Bampfield</hi> of <hi>Poultimore</hi> in <hi>Devon.</hi>
+                  </item>
+                  <item>Madam <hi>Diana Montague</hi> of <hi>Leckham</hi> in <hi>Wilts.</hi>
+                  </item>
+                  <item>Madam <hi>Mary Ewer</hi> of <hi>Richmond</hi> in <hi>Surry.</hi>
+                  </item>
+                  <item>Madam <hi>Catharine Broncker</hi> of <hi>Stoke</hi> in <hi>Wilts.</hi>
+                  </item>
+               </list> Being all Admirers of the Deceaſed, and equally Admir'd by her. </p>
+            <p>THIS FUNERAL DISCOURSE Is with all Submiſſion Dedicated, By Your Ladyſhips moſt Obedient Servant, </p>
+            <closer>
+               <signed>JOHN PRUDE.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34403:4"/>
+            <pb facs="tcp:34403:4"/>
+            <head>TO THE READER.</head>
+            <p>THE honeſt Attempt of preſerving the Me<g ref="char:EOLhyphen"/>mory of that moſt Pious and Learned young Gentlewoman Mrs. <hi>Ann Baynard,</hi> has occaſion'd the haſty Publication of this Diſcourſe. She was perhaps one of the greateſt Women that any Age has produc'd, both for Parts and their Improvement; as her great Skill in the Languages, and all manner of Learning and Philoſophy, has ſufficiently made appear; but that which is moſt rare, was her great Modeſty, un<g ref="char:EOLhyphen"/>der which ſo much knowledge was vail'd; without the leaſt Tincture of Vanity or Oſtentation. For her Words were very few, and her Countenance al<g ref="char:EOLhyphen"/>ways compos'd; ſo that Taciturnity, Wiſdom, and Diſ<g ref="char:EOLhyphen"/>cretion, were Rival Vertues to her other Accompliſh<g ref="char:EOLhyphen"/>ments. The good that ſuch a Woman might have done by her Example is unſpeakable, and her Loſs irrepa<g ref="char:EOLhyphen"/>rable, for ſhe was known too late, and loſt too early. She-was a true and conſtant Church Woman, a great Aſ<g ref="char:EOLhyphen"/>ſerter and Defender, both of the Order and Oecone<g ref="char:EOLhyphen"/>my
+<pb facs="tcp:34403:5"/>of the Church of <hi>England,</hi> and pitied the Brea<g ref="char:EOLhyphen"/>ches and Schiſms, which Diſſention had made in the pure and ſpotleſs Religion of the moſt Holy Jeſus. She would often ſay, that Pride and Self-conceit were the two main Pillars on which that Fabrick of Diſſention ſtood, and therefore Wiſe and conſiderate Perſons would eaſily conclude it to be built upon a weak and ſandy Foundation. She mightily pitied the unthinking part of Mamkind, particularly thoſe of her own Sex, <hi>That were any ways miſ-lead into wrong Opinions.</hi> And as to <hi>Hereſie,</hi> ſo alſo ſhe was a profeſs'd Enemy to <hi>Atheiſm</hi> and
+<hi>Pro<g ref="char:EOLhyphen"/>phaneneſs,</hi> and held the Sacred Name of God, in ſuch a Reverence and Admiration; that ſhe always either bow'd or ſtood up, when any occaſional Diſ<g ref="char:EOLhyphen"/>courſe offer'd it ſelf that way.</p>
+            <p>She was a great Admirer of all good and vertuous Perſons in General; particularly the Ladies to whom this Diſcourſe is dedicated, whom ſhe never named, but with a Reſpect proportionable to that Value and Eſteem, which they juſtly deſerv'd, and which ſhe thought their due.</p>
+            <p>The Lady <hi>Mary Fane,</hi> accompany'd with her Mother, and the beſt of Mothers, the moſt Pious and moſt Vertuous Counteſs of <hi>Weſtmorland,</hi> (it would ſeem a Digreſſion, if I ſhould ſpeak all that I know
+<pb facs="tcp:34403:5"/>to this Purpoſe) often did her the Favour of their Viſits in her Sickneſs. The good Lady <hi>Languevil</hi> her next Neighbour, did not only do the Office of a Friend, but even out-did the kindneſſes of a moſt near Rela<g ref="char:EOLhyphen"/>tion in the Favours ſhe ſhew'd her in her languiſh<g ref="char:EOLhyphen"/>ing and weak condition. The Lady <hi>Delves</hi> annually honour'd her Birth-day for many years together with a noble Preſent: And the Character ſhe had of the Vertue and Goodneſs of that excellent Woman the Lady <hi>Bampfield</hi> (Mother to Sir <hi>Copleſtone War<g ref="char:EOLhyphen"/>wick,</hi>) made her in love with her very Name.</p>
+            <p>Madam <hi>Montague,</hi> Madam <hi>Ewer,</hi> and Ma<g ref="char:EOLhyphen"/>dam <hi>Broncker</hi> were all related to her, Ladies of the ſtricteſt Vertue and Piety, for whom ſhe had a great Reſpect and Kindneſs. As to her Birth and Family, it is ſo well known, that I need ſay no more of it, than that ſhe was deſcended from <hi>Ralph Baynard</hi> Baron of <hi>Dunmow</hi> in
+<hi>Eſſex,</hi> who left his Son the Lord <hi>Jeffery Baynard</hi> in the quiet Poſſeſſion of Eighty five fair Lordſhips, as cited by Mr. <hi>Dugdale</hi> in his
+<hi>Baronage</hi> of <hi>England.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:34403:6"/>
+            <head>Some Books Printed for, and Sold by <hi>D. Brown,</hi> at the <hi>Black Swan</hi> and
+<hi>Bible</hi> without <hi>Temple Barr.</hi>
+            </head>
+            <list>
+               <item>SIX Sermons Preached on ſeveral Occaſions, by Dr. <hi>Haſchard</hi> Dean of
+<hi>Windſor.</hi>
+               </item>
+               <item>Eight Sermons Preached on ſeveral Occaſions, by Dr. <hi>Mannigham.</hi>
+               </item>
+               <item>Mr. <hi>Ellesby</hi>'s Funeral Sermon of the Danger of a Death-bed Repentance.</item>
+               <item>Dr. <hi>Jacomb</hi>'s Sermom, at the Funeral of Mr. <hi>Martyn.</hi>
+               </item>
+               <item>Mr. <hi>Bynn</hi>'s Sermon before the Houſe of Commons, <hi>Jan.</hi> 30.</item>
+               <item>Four Sermons Preached on ſeveral Occaſions, by Dr. <hi>Felling.</hi>
+               </item>
+               <item>Mr. <hi>Leighton</hi>'s Houſe Sermon, of the Duty and be<g ref="char:EOLhyphen"/>nefit of Frequent Communion.</item>
+               <item>—His Sermon at <hi>Lincoln</hi> Aſſizes.</item>
+               <item>Mr. <hi>Maundrell</hi>'s Sermon before the <hi>Turky Company.</hi>
+               </item>
+               <item>Dr. <hi>Horneck</hi>'s Four Treatiſes publiſhed ſince his Death.</item>
+               <item>Dr. <hi>Pelling</hi> on the Sacrament, 2 Vol.</item>
+               <item>—On Charity.</item>
+               <item>—On Humility.</item>
+               <item>—On God's Love to Mankind.</item>
+               <item>—On Prayer.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34403:6" rendition="simple:additions"/>
+            <epigraph>
+               <bibl>
+                  <hi>Eccleſiaſtes II. 16.</hi>
+               </bibl>
+               <q>
+                  <p>For there is no remembrance of the wiſe more than of the fool for ever, ſeeing that which now is, in the days to come ſhall be forgotten; and how dieth the wiſe man? As the fool.</p>
+               </q>
+            </epigraph>
+            <p>THE ſad occaſion of this day, confirms the Poſition of the Preacher, and gives us an am<g ref="char:EOLhyphen"/>ple proſpect of the vantiy of the beſt of Mortals: For we ſee that the moſt profound Sagacity, the moſt refined Vertues and exalted Graces, that humane Nature is capable of, cannot ſecure the Body from the Grave, nor the Worms from their Prey, ſee<g ref="char:EOLhyphen"/>ing the wiſe Man dieth even as the Fool.</p>
+            <p>The ſcope and drift of the Royal Prea<g ref="char:EOLhyphen"/>cher in this Book, is to evince and illuſtrate
+<pb n="2" facs="tcp:34403:7"/>this one great Truth, <hi>viz.</hi> That the real Good and Happineſs of Man, is not to be found in this World; and that whatſoever he ſets his heart upon here, is ſo far from yielding any ſolid Enjoyment or Satisfaction, that it is the greateſt Allay that can be to it: that it raiſes his deſires only to defeat them; and invites him with pleaſant and ſpecious Expectations, to ſend him away with the greater Vexation of Spirit.</p>
+            <p>And this Truth is here very clearly and pathetically laid open to us, by a particular diſquiſition of the Pleaſures, Honors, Riches, and Wiſdom too of this World, which are ſo much the Idols of mens Wiſhes and Deſires.</p>
+            <p>And indeed who was fitter for ſuch a work than he; not only upon the account of that depth and capacity he had above other Men, but alſo from that dear bought experience, which he had made of all theſe things.</p>
+            <p>God had endowed him not only with a vaſt Comprehenſive Soul, but put into his hands all that his heart could wiſh for; ſo that the Concluſion which he draws from the whole matter, is not the effect of Sullenneſs in a diſcontented Stoick, who might diſparage
+<pb n="3" facs="tcp:34403:7"/>the World becauſe he would have no ſhare in its Enjoyments; but the cool reſult of Wiſ<g ref="char:EOLhyphen"/>dom in a King, that could command the Blandiſhments of this World, after he had gi<g ref="char:EOLhyphen"/>ven the greateſt looſe to his deſires in the En<g ref="char:EOLhyphen"/>joyment of them; and who may conſequent<g ref="char:EOLhyphen"/>ly be the better believ'd in what he ſaith con<g ref="char:EOLhyphen"/>cerning them.</p>
+            <p>Having therefore in the former part of this Chapter found nothing but vanity in all the delights of the Sons of Men, whether they were large Poſſeſſions or great Retinues; whether they were beautiful Gardens, or pleaſant Fountains; whether the mirth of Feaſting and Banqueting, or the melody of the ſweeteſt Voices and Inſtruments of Muſick; he turns himſelf in the 12th
+<hi>ver.</hi> as to his laſt refuge, to reflect upon his Wiſdom, and to conſider it as the only good of Man; and here he tells us, that he found the intellectual pleaſures of Wiſdom and Knowledge, to as far exceed the Madneſs and folly of ſenſual Gratificati<g ref="char:EOLhyphen"/>ons, as the light of the Sun, which cleares the eyes, and diſplays the lovely Scene of Nature to our view, does the darkneſs of the night, which ſhuts up all in ſolitude and ſilence,
+<pb n="4" facs="tcp:34403:8"/>and expoſes us to dangers, <hi>the wiſe mans eyes are in his head; i. e.</hi> he is circumſpect and cauti<g ref="char:EOLhyphen"/>ous, whereby he eſcapes the Snares and Troubles which the careleſs and unwary Man does ſo eaſily fall into. <hi>Happy therefore is the man that findeth Wiſdom, and the man that poſ<g ref="char:EOLhyphen"/>ſeſſeth underſtanding:</hi>
+               <note place="margin">Prov. 3.13,
+14, 15.</note>
+               <hi>The merchandiſe thereof is better than the merchandiſe of Silver, and the gain thereof than fine Gold. She is more pretious than Ru<g ref="char:EOLhyphen"/>bies, and all the things that can be deſired, are not to be compared unto her.</hi>
+            </p>
+            <p>She is the off-ſpring of Heaven, the excel<g ref="char:EOLhyphen"/>lency of Men and Angels, and the Salt that ſeaſons every ſtate of life, and makes it ſa<g ref="char:EOLhyphen"/>voury.</p>
+            <p>And yet notwithſtanding all this, the ſhare which the beſt of Men has of it, is but poor and ſcanty, and which is allay'd with much Ignorance and Error. Its light is but weak and dim at the beſt; juſt enough to diſcover our Miſeries, but unable of it ſelf to guide us out of them.</p>
+            <p>In fine, where it is not aſſiſſted from above, it has its vanity as well as all other things here below; it can neither exempt a Man from the Calamities that ſurround him, nor ſecure
+<pb n="5" facs="tcp:34403:8"/>him from Death and Oblivion. <hi>For there is no remembrance of the Wiſe, more than of the Fool for ever, ſeeing that which now is, in the days to come ſhall be forgotten; and how dyeth the Wiſe Man, as the Fool.</hi>
+            </p>
+            <p>The words repreſent to us theſe two things as Vanities incident to Wiſdom.</p>
+            <list>
+               <item>I. The equal ſhare of Miſery and Death that is charged upon the wiſe Man as well as the Fool; <hi>for there is one event to them both.</hi>
+               </item>
+               <item>II. The fruitleſs Attempt to retrieve our ſelves from Death by a ſurviving Me<g ref="char:EOLhyphen"/>mory; ſeeing the wiſe Man is as ſoon for<g ref="char:EOLhyphen"/>gotten as the Fool.</item>
+            </list>
+            <p n="1">I. Then we ſay, that notwithſtanding the great Prerogative that Wiſdom has a<g ref="char:EOLhyphen"/>bove Folly, the one can no more free us from Miſery while we live, nor from the hand of Death at laſt, than the other.</p>
+            <p>The wiſeſt Man in the world draws but a precarious Breath here, being lodg'd in a Tenement of Clay, a tottering and ruinous Houſe, ſubject to many Sickneſſes and In<g ref="char:EOLhyphen"/>firmities, and every moment threatning a Diſſolution. There is no diſtinction in his
+<pb n="6" facs="tcp:34403:9"/>Origin from the Fool, or the Beaſt that pe<g ref="char:EOLhyphen"/>riſheth: Notwithſtanding his boaſt of Wiſ<g ref="char:EOLhyphen"/>dom, <hi>He is born but as the wild Aſſes Colt.</hi>
+               <note place="margin">Job
+11.12.</note> He ſpends his Childhood in the ſame ignorance and vanity, and when his knowledge comes to him, the diſadvantage in compariſon ſeems to lye on his ſide. For having a lar<g ref="char:EOLhyphen"/>ger Proſpect and nicer Senſe than others, his knowledge helps him only to diſcover more things, that will vex him and make him ſad.</p>
+            <p>Hence ſays our Preacher, That <hi>the heart of the wiſe is in the houſe of mourning, and he that increaſeth knowledge increaſeth ſorrow,</hi>
+               <note place="margin">Eccleſ. 7.4.</note> and Sorrow dryeth the bones, waſtes the Fleſh, and haſtens old Age. And as the natural ſtrength wears away, ſo doth the vigour of the Senſes, and as Life abates, ſo does Wiſ<g ref="char:EOLhyphen"/>dom gradually depait from us. Death ſpoils our Tabernacles, we lay our Heads down with the beaſts of the Field, and are crumbl'd into the ſame common Duſt. Let our Wiſdom be what it will, whether ſpeculative or practical, ſpiritual or tempo<g ref="char:EOLhyphen"/>ral, the Wiſdom that is from above, or the Wiſdom of this world, 'tis a moſt certain and undeniable Truth, that no Man's Parts
+<pb n="7" facs="tcp:34403:9"/>or Learning can ſecure him from the Grave; <hi>but there is one and the ſame Event to the Righ<g ref="char:EOLhyphen"/>teous and to the Wicked, to the Wiſe and to the Unwiſe.</hi>
+            </p>
+            <p>But here we muſt remember that we do not miſtake the Preachers meaning, as if he made no difference at all between the Wiſe Man and the Fool: He only maintains that there was nothing perfect underneath the Sun; that Wiſdom it ſelf, the moſt excellent of the Gifts of God, had its mixtures and allays, and was attended with many Incon<g ref="char:EOLhyphen"/>veniencies, that it might not puff us up in<g ref="char:EOLhyphen"/>to Pride and Self-Admiration. But in all other Reſpects, <hi>Wiſdom</hi> has been <hi>truly juſtify'd</hi> by this her <hi>Elder Son,</hi> who being beſt acquain<g ref="char:EOLhyphen"/>ted with her, has given her, her due Praiſe, and recommended her to Mankind.</p>
+            <p>And indeed ſhe muſt be owned to be a <hi>Crown of Glory to all that lay hold on her:</hi> And without her direction and guidance, Man is the moſt forlorn and deſpicable Creature in the World, both as to his moral and his political Capacity.</p>
+            <p>For as to the former, it is from clouded Und<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſtandings, and wrong Conceptions of
+<pb n="8" facs="tcp:34403:10"/>things, that Men are ſo fond of, their Vices; had they but right apprehenſions, their Luſts would not look ſo alluring.</p>
+            <p>Who is the proud Man? who is the Drun<g ref="char:EOLhyphen"/>kard? who is the Glutton? who is the Co<g ref="char:EOLhyphen"/>vetous? who is the Voluptuous? who is the Profane? who is the Adulterer? But the Man that lacketh Wiſdom.</p>
+            <p>And as to the latter, how can a Man ſteer himſelf thro' the various Circumſtances of his Life, if he has not this Star and Compaſs to direct him.</p>
+            <p>What is wealth without knowledge? but a dangerous Temptation, and a ſure Evil to the Owners thereof. What is want without knowledge? but an inſupportable Vexation, that can neither be born nor remedied. What is Power without knowledge? but a pompous Station, which will either be loſt or leſſened? What is Subjection without knowledge, but a brutiſh drudgery, that will neither be valued nor pityed. What is Ho<g ref="char:EOLhyphen"/>nour without Knowledge, but an empty Title that will be either envyed or ſlighted And what is diſgrace without Knowledge? but an inſulting Evil, that can neither be
+<pb n="9" facs="tcp:34403:10"/>warded nor yet weather'd. For certain is it, that by a due improvement of our Minds, we are the better able to carry our ſelves thro' this Valley of Tears, to moderate a proſperous for<g ref="char:EOLhyphen"/>tune, and to ſuſtain an adverſe one.</p>
+            <p>Neither would I have the Atheiſt and Epi<g ref="char:EOLhyphen"/>cure inferr from <hi>Solomons</hi> ſaying, <hi>The wiſe Man dies as the Fool, and both of them as the beaſt,</hi> that there is no difference of them afterwards, and that it will be to all alike hereafter, as if they had never been; for this is a moſt certain and evident Proof to the contrary; the little Diſ<g ref="char:EOLhyphen"/>crimination that is made here, does ſufficiently make out that there ſhall be a greater hereafter. That the Soul of a Wiſe and Holy Man, who undergoes the ſame Trouble and Fatality in this World, that the Fool and the Sinner doth, and ſometimes greater, is a convincing Argument, drawn from the Juſtice of God, that there is a future State, wherein the grand difference of Mankind ſhall be ſettl'd and eſtabliſh'd.</p>
+            <p>No! Tho' the one inherits the ſame Cor<g ref="char:EOLhyphen"/>ruption with the other in the Grave, yet ſhall he ſee a more bleſſed Incorruption; tho' he ſets in Diſhonour, yet ſhall he riſe again in Glory: And therefore our Royal Preacher in ano<g ref="char:EOLhyphen"/>ther place tells us, <note place="margin">
+                  <hi>Wiſd.</hi> 5.1, 2, 4, 5.</note> That the righteous Man who
+<pb n="10" facs="tcp:34403:11"/>is truly the wiſe Man, ſhall one day ſtand in great Boldneſs before the Face of ſuch as have afflicted him, and made no account of his La<g ref="char:EOLhyphen"/>bours, that when they ſee it, they ſhall be a<g ref="char:EOLhyphen"/>mazed at the ſtrangeneſs of his Salvation ſo far beyond all that they looked for. And again we Fools accounted his Life madneſs, and his end to be without Honour; but how is he num<g ref="char:EOLhyphen"/>bred among the Children of God, and <hi>his Lot is among the Saints.</hi> It is no difficult Matter, I muſt confeſs to Perſons, who live wholly to the Body, and do not aim at any uſeful end of Life, to imagine that they are nothing but Fleſh and Blood; and that when they die their Soul ſhall diſſolve and vaniſh into the ſoft Air:</p>
+            <p>But to think that thoſe, who have lived above the Body, have govern'd themſelves by the Di<g ref="char:EOLhyphen"/>ctates of the higheſt Prudence, have benefited the World by their rare Endowments, have been adorn'd with all Divine Graces and Vertues, and have been the Glory of the Age they liv'd in; ſuch as this young Gentlewoman whoſe remains are now before us; a Perſon endow'd with excellent Gifts and Graces, to think (I ſay) that ſhe together with thoſe other Worthys departed this Life in the Faith and fear of God; to think by their confeſſing the ſame common Duſt in
+<pb n="11" facs="tcp:34403:11"/>their Diſſolution, that they were actuated by no higher Pirnciple; that there were no ſpiritual Inhabitants in thoſe Houſes of Clay, which be<g ref="char:EOLhyphen"/>ing of heavenly extract performed all thoſe no<g ref="char:EOLhyphen"/>ble things, and are now removed to their native Countrey to receive the reward of them; is a thought, which, to any ſerious thinking Man, muſt needs be as abſurd as
+'tis uncomfortable.</p>
+            <p>Methinks it were to be wiſh'd that thoſe, which have been ſuch Lights to the World, beſides their immortal State in the other World, might likewiſe have an immortal Memory in this; to juſtifie the Power of Wiſdom, and to excite our Emulation. But it hath pleaſed Almighty Wiſdom to ordain but one immor<g ref="char:EOLhyphen"/>tality; that we might be more intent in the purſuit of it, and not vainly expect or reſt in any other. And this brings me to the</p>
+            <p n="2">II. Vanity incident to Wiſdom, which is, tho' the Memory of the wiſe be ſo deſirable a thing to themſelves, and beneficial to Poſte<g ref="char:EOLhyphen"/>rity, <hi>Yet there is no remembrance of the wiſe more than of the fool for ever, ſeeing that which now is in the days to come ſhall be forgotten.</hi>
+            </p>
+            <p>Certain it is that there is a hankering in the minds of all Men, to perpetuate their Memo<g ref="char:EOLhyphen"/>ries, whether it ariſes from the natural Thirſt of
+<pb n="12" facs="tcp:34403:12"/>the Soul after immortality, or from a Diffi<g ref="char:EOLhyphen"/>dence of a future State, and conſequently an endeavour to recover what we can from the ſpoils of Death. And how induſtrious has the Wit of Man been to prevent this? Some by coſtly Unctions and Embalmings, ſome by laſting Tombs and Pyramids; ſome have ob<g ref="char:EOLhyphen"/>tained to be Regiſtred among the Stars, and others to have the Months of the year to be called by their Names. What Dangers have Men encountred to get an immortal-Fame to be incerted in the Annals of the world, or to be ce<g ref="char:EOLhyphen"/>lebrated in the ſtrains of ſome ingenious Poet? How fond are moſt Men of ſurviving in their Off-ſpring, and what an Unhappineſs is it look'd upon to have no iſſue to keep up our name?</p>
+            <p>Thus do poor Mortals hunt after ſhadows, and very Spectrums: Thus do they diſquiet themſelves in vain, to purchaſe a little popular breath, which when they are gone they ſhall be inſenſible of, or at leaſt unconcerned for; and in which Falſhood has often as great a ſhare as Truth, and Vice as Vertue.</p>
+            <p>For the World is not ſo curious to hand down what is excellent, as what is ſurpriſing and ex<g ref="char:EOLhyphen"/>traordinary. Thus he that ſet the Temple of <hi>Epheſus</hi> on fire is remembred, whilſt he that
+<pb n="13" facs="tcp:34403:12"/>built it is almoſt forgotten; and that was a hopeleſs as well as mean deſire in <hi>Cardan,</hi> tho' the greateſt Philoſopher and Phyſician of his time, that the Ages to come might know there was ſuch a Man, not caring whether they knew any more of him.</p>
+            <p>But let a man's fame be raiſed from never ſo ſolid a merit, and rivetted in Braſs and Marble; yet Monuments themſelves have their deſtiny; Time eats through the moſt laſting Subſtance, and Oblivion blots out the faireſt Characters.</p>
+            <p>We cannot hope to live ſo long in our names as ſome have done in their perſons; and thoſe who have or ſhall have the happieſt and long<g ref="char:EOLhyphen"/>eſt Commemoration, ſhall, by the flux of time, have it dwindle into a point, and at laſt vaniſh into nothing.</p>
+            <p>It being in this reſpect the ſame with Time, as it is with Place, that the greateſt diſtance gives the leaſt appearance; ſo vain a thing is a reſtleſs inquietude for the diuturnity of our Me<g ref="char:EOLhyphen"/>mories. For who knows whether there are not more remarkable Perſons forgotten, than that ſtand remembred in the known account of time; and the beſt of Men at laſt muſt be con<g ref="char:EOLhyphen"/>tent, to be as though they had never been as to this World, and to be found in the Regiſter of God, not in the Record of Man.</p>
+            <pb n="14" facs="tcp:34403:13"/>
+            <p>Indeed to have the common voice of Men for the teſtimony of a worthy Carriage, in the conſtant tenour of a Man's life and converſati<g ref="char:EOLhyphen"/>on, is a deſireable thing, and of ſingular uſe while we live; our Preacher aſſuring us, <hi>that a good name is better than pretious ointment,</hi>
+               <note place="margin">Prov. 22.1.</note> both for the refreſhing and cheering our ſelves, and ſcat<g ref="char:EOLhyphen"/>tering a delicious fragrancy to others: <hi>i.e.</hi> The Reflection upon good Actions is the feaſt of a good Conſcience; and the Eſteem which our Vertue creates in the Minds of others, excites their Imitation, and brings back with it their Friendſhip and Aſſiſtance: It comforts us in all the ſtages of our life, and at the hour of our departure hence it ſtands by us; allays the Terror of Death, and tells our departing Souls, that we ſhall die deſir'd, and that our Memo<g ref="char:EOLhyphen"/>ries ſhall be preſerved ſweet by all that know us.</p>
+            <p>So that no Ointment is ſo powerful to pre<g ref="char:EOLhyphen"/>ſerve the Body from Corruption, as a good Name and Report is to preſerve our Vertue from Oblivion; but this is only for ſome time, and is the Prerogative only of one ſort of Wiſ<g ref="char:EOLhyphen"/>dom; which ſeeking thoſe things which are above has the leaſt to do with the Praiſe and Glory of this World, and yet notwithſtanding
+<pb n="15" facs="tcp:34403:13"/>gets the greateſt, and the moſt laſting ſhare of it.</p>
+            <p>Thus the Pſalmiſt tells us, <hi>that the righteous ſhall be had in everlaſting remembrance;</hi> meaning thereby a very long one. Our Saviour gave this Commendation of <hi>Mary Magdalen</hi>'s anoint<g ref="char:EOLhyphen"/>ing him, that <hi>what ſhe had done ſhould be publiſhed throughout</hi> the Chriſtian World <hi>for a memorial of her.</hi> And St. <hi>Paul,</hi> ſetting forth the Eulogies of Faith, in the 11th. Chapter to the <hi>Hebrews,</hi> amongſt the reſt delivers, that <hi>by it the Elders obtained a good report;</hi> and we have great reaſon to hope that thoſe Men who have their Praiſes recorded in Holy Writ, ſhall have a name among Men as long as the Sun and Moon endureth.</p>
+            <p>But as I was ſaying, this is the Priviledge only of a few, and is as an Exception to the ge<g ref="char:EOLhyphen"/>neral Rule; 'Tis not the greatneſs of our Actions, but the goodneſs of them, that pre<g ref="char:EOLhyphen"/>ſerves our Memories the longeſt.</p>
+            <p>Let us otherwiſe do what we can to tranſ<g ref="char:EOLhyphen"/>mit our name to diſtant Poſterities, uſe all our Wit and Art, ſpend the moſt coſtly Perfumes and precious Ointments, for our embalming, we may juſtly take up the rebuke which the Diſciples of Chriſt (though unjuſtly) gave to the Woman in the Goſpel, <hi>Quorſum perditio haec?
+<pb n="16" facs="tcp:34403:14"/>To what purpoſe is this waſte?</hi>
+               <note place="margin">Mat. 26.8.</note> to preſerve a name from Stench and Putrifaction.</p>
+            <p>'Tis a ſore vanity to be thus anxiouſly ſoli<g ref="char:EOLhyphen"/>citous for the perpetuity of that which is but a ſhadow at beſt, and muſt take its chance in the World as well as other things.</p>
+            <p>'Tis a vanity in a wiſe Man paſſionately to purſue that which is but of little worth, tho' it were eternal, and a greater to do ſo when 'tis both inſignificant and tranſitory too, and yet this is a ſecret Deſire, more or leſs in eve<g ref="char:EOLhyphen"/>ry man of the World.</p>
+            <p>And thus we ſee, That <hi>wiſe men alſo die and periſh together, as well as the ignorant and fooliſh,</hi> and leave the Fruits of their Wiſdom to be en<g ref="char:EOLhyphen"/>joyed by others: <hi>And tho' thy think that their houſes ſhall continue for ever,</hi> and that they have called their Lands after their own names, <hi>yet there is no remembrance of the wiſe more than of the fool for ever.</hi>
+            </p>
+            <p>The Vanity then that is here juſtly charged upon the coveting Vertue for the ſake of Ho<g ref="char:EOLhyphen"/>nour, or the ſeeking Wiſdom to raiſe an im<g ref="char:EOLhyphen"/>mortal name, is very obviouſly unfolded by this <hi>Dilemma.</hi>
+            </p>
+            <p>If I get my ſelf a name in the World, I ſhall be either ſenſible of it when I am dead, or in<g ref="char:EOLhyphen"/>ſenſible.
+<pb n="17" facs="tcp:34403:14"/>If I am inſenſible of it, what good can it be to me. If I am inſenſible of it, it muſt be either in a ſtate of Miſery, or a ſtate of Glo<g ref="char:EOLhyphen"/>ry. If I have any apprehenſions of it in a ſtate of Miſery, it will certainly prove an aggrava<g ref="char:EOLhyphen"/>tion to the Worm that never dieth, to be under the heavy Wrath of God, for what the World is then applauding me for. If I am in a ſtate of Glory, I cannot think the good opinion of Men can be any acceſſion to the Happineſs above: The Praiſes of poor Mortals muſt cer<g ref="char:EOLhyphen"/>tainly be ſwallowed up and diſappear amidſt the Eulogies and Acclamations of Saints and Angels.</p>
+            <p>The Conſideration then of what has been ſaid ſhould teach us theſe two plain Leſſons; which are not only the dictates of Reaſon, and confirmed by the wiſe Man's Experience, but commanded by him who is wiſer than <hi>Solo<g ref="char:EOLhyphen"/>mon.</hi>
+            </p>
+            <p n="1">1ſt. That we deſpiſe the Honour and Glory of this World.</p>
+            <p>However it was permitted to former Ages, who had but weak and very imperfect Diſco<g ref="char:EOLhyphen"/>veries of a future ſtate, to ſeek a reward of Ver<g ref="char:EOLhyphen"/>tue in fame as well as other temporal goods; yet to us, who have life and immortality
+<pb n="18" facs="tcp:34403:15"/>brought to light through the Goſpel; the great Command is, <hi>deny thy ſelf, and fellow me.</hi>
+            </p>
+            <p>Thoſe who have profeſſed under the Croſs of Chriſt, are to be crucified to the World, and to have the World crucified unto them; they are to renounce its Pomps and Vanities, its Flatteries and Applauſes; their condition here is not to be in Greatneſs and Spendour, but in Humility and Poverty of Spirit: They are not to ſeek the Praiſes of Men, but the Praiſe and Honour of the All-wiſe God.</p>
+            <p>For to ſeek the good opinion of others, is inconſiſtent with the true ſenſe of our own Un<g ref="char:EOLhyphen"/>worthineſs; and to do good that we may be commended, is to let go the Subſtance and pur<g ref="char:EOLhyphen"/>ſue the Shadow.</p>
+            <p>Therefore the Son of God has ſtrictly cau<g ref="char:EOLhyphen"/>tion'd us, not to do our works to be ſeen of Men; and if our light is to ſhine before others, 'tis to enlighten them, and not to be reflected on our ſelves in an over-weening Compla<g ref="char:EOLhyphen"/>cency.</p>
+            <p>And how reaſonable is this Command to thoſe who are to ſet their affections on things above; who are in this World but as Pilgrims and Travellers in an Inn, who tarry but a night? The Hardſhips they meet with, the Smallneſs
+<pb n="19" facs="tcp:34403:15"/>of the ſtay, will not certainly make them very curious what the People will ſay of them when they are gone.</p>
+            <p>
+               <hi>2dly.</hi> This will teach us to make the beſt uſe of our Reaſon and Underſtanding; which is not to get our ſelves a name, but to anſwer the End and Excellency of our Being.</p>
+            <p>The Faculties and Powers God has endow<g ref="char:EOLhyphen"/>ed us with, are beſt employ'd about the know<g ref="char:EOLhyphen"/>ledge of our ſelves; what we are? from whence we derived our Being? what Duty we owe the Author of it? and how we are to promote his Glory?</p>
+            <p>This is the Concluſion of the whole matter; That the fear of God is the higheſt and trueſt Wiſdom, and that which will certainly lead us into all other.</p>
+            <p>Let us therefore never think our ſelves wiſe, till we are wiſe unto Salvation; never think we know any thing, before we know we have a part in Chriſt.</p>
+            <p>In our ſearches after Knowledge, let us have recourſe to him who is the God of Truth; to his Word, which is the Word of Truth; and to his Spirit, which is the Spirit of Truth; which is the only way to diſpel our Darkneſs here; and to bring us to the Beatifick Viſion
+<pb n="20" facs="tcp:34403:16"/>hereafter, which is light eternal.</p>
+            <p>I have not ſpoke ſo much upon this Text, as perhaps the ſubject matter might well enough bear; becauſe I have another ſad Text laid be<g ref="char:EOLhyphen"/>fore me, and upon which it is very requiſite that I ſhould ſpeak ſomething: namely, the ſad Diſ<g ref="char:EOLhyphen"/>penſation of Divine Providence in
+<hi>cuting off the ſtrength,</hi> and <hi>ſhortning the days</hi> of this excellent and rare Example of Wiſdom and Mortality, this young Gentlewoman whoſe Funerals we now celebrate; and whom, conſidering her great Parts and Endowments, it is not meet to bury in ſilence.</p>
+            <p>For tho' we are foretold that the Memory of the wiſeſt and the beſt of Mortals is not long liv'd; yet let us not put the Shrowd over them too ſoon before we have ſtrew'd ſome few Flowers over their Graves; tho' like them alſo, their remembrance does ſoon periſh, and fade away.</p>
+            <p>For my own part, as I profeſs my ſelf no friend to Funeral-pomp and Panegyricks; (ex<g ref="char:EOLhyphen"/>cept ſomething extraordinary does appear) ſo I confeſs my own Inability for ſuch an under<g ref="char:EOLhyphen"/>taking: Yet it is not good manners to withhold Praiſes where they are due; and <hi>tho' Favour be deceitful, and Beauty be vain, yet the Woman that
+<pb n="21" facs="tcp:34403:16"/>feareth the Lord ſhe ſhall be praiſed,</hi> ſays our Royal Preacher.
+<note place="margin">Prov. 31.30.</note>
+            </p>
+            <p>But when this is done, much Skill and Rhe<g ref="char:EOLhyphen"/>torick is required, leaſt like ſome ſorry Painter, we mar that Face that we pretend to delineate.</p>
+            <p>But all that can be ſaid for this rough Draught that you meet with here is only this; that as the Learned and ingenious young Gen<g ref="char:EOLhyphen"/>tlewoman, did never make a ſhew of any Fond<g ref="char:EOLhyphen"/>neſs or Affectation in her outward Dreſs, when living; ſo a plain and ordinary one may the better be excus'd now ſhe is dead.</p>
+            <p>No! She had buſineſs that lay upon her hands of another Nature; ſhe had many Books to read, many Doubts and Difficulties to clear up to her underſtanding, and much time to lay out in devout and ſerious Meditation. And ſhould I attempt to open the Treaſury of her Virtues, and acquaint you with the particulars, the Task would be too tedious, and ſome might hold it ſuperfluous; eſpecially in this ill na<g ref="char:EOLhyphen"/>tur'd and cenſorious Age, when we cannot en<g ref="char:EOLhyphen"/>dure to hear that aſcribed to others, which is wanting in our ſelves.</p>
+            <p>Yet for their ſake who knew her not, or not ſo well as my ſelf, tho' it was my great mis<g ref="char:EOLhyphen"/>fortune that I knew her ſo late, for I ſhould o<g ref="char:EOLhyphen"/>therwiſe
+<pb n="22" facs="tcp:34403:17"/>have learned much more from her; I ſhould as the wiſe Man ſpeaks of Wiſdom in general, <note place="margin">Prov. 5.1.</note> I ſhould have <hi>attended to her Wiſdom, and bowed mine Ear unto her Underſtanding.</hi>
+            </p>
+            <p>And therefore, I ſay, for their ſake that knew her not, I will ſingle out ſome few of thoſe ma<g ref="char:EOLhyphen"/>ny Virtues ſhe was endowed with, and preſent them to your Memory and Practice, and by which, I believe, I ſhall not grieve or vex your Patience.</p>
+            <p>But that I may not ſeem tedious, I will re<g ref="char:EOLhyphen"/>duce them to theſe Three,</p>
+            <p>Her Learning, her Piety, and her Charity.</p>
+            <p>Theſe are Cardinal Vertues on which all o<g ref="char:EOLhyphen"/>thers hang and depend; and I ſhould be inju<g ref="char:EOLhyphen"/>rious to her Memory, ſhould I conceal her Ex<g ref="char:EOLhyphen"/>cellency herein.</p>
+            <p>And Firſt, what I am to ſay as to her Lear<g ref="char:EOLhyphen"/>ning, perhaps may find but indifferent Enter<g ref="char:EOLhyphen"/>tainment in this Age, when it is become a Faſhi<g ref="char:EOLhyphen"/>on more than ever for young Women to ſpend the greateſt Portion of their time in Ornamen<g ref="char:EOLhyphen"/>tals, in preparing modiſh and accompliſh'd Dreſſes for the Body; whilſt little or no time is laid aſide, to adorn the Soul with decent and useful knowledge.</p>
+            <p>But ſhe had found out a better way to em<g ref="char:EOLhyphen"/>ploy
+<pb n="23" facs="tcp:34403:17"/>her time, that according to the Pſalmiſt ſhe might become <hi>like the Kings Daughter all glo<g ref="char:EOLhyphen"/>rious within,</hi>
+               <note place="margin">Pſal. 45.13.</note> and whilſt ſome others with <hi>Martha are cumber'd about many things, ſhe with</hi> Mary <hi>had choſen that better part,</hi>
+               <note place="margin">Luk. 10.41, 42.</note>
+               <hi>which ſhall not be taken away from her.</hi>
+            </p>
+            <p>The Apoſtle St. <hi>Paul</hi> indeed acquaints us with certain Women in his time,
+<note place="margin">2 Tim. 3.7.</note> who were al<g ref="char:EOLhyphen"/>ways learning, and never able to come to the knowledge of the Truth. But ſhe was none of thoſe Women, but the rather might truly ſay with Holy <hi>David,</hi>
+               <note place="margin">Pſal. 119, 100.</note>
+               <hi>I have more underſtanding than my Teachers, I underſtand more than the Antients.</hi>
+            </p>
+            <p>The truth of which did moſt evidently ap<g ref="char:EOLhyphen"/>pear to any one that had but the leaſt Conver<g ref="char:EOLhyphen"/>ſation with her.</p>
+            <p>For, as for Learning, whether it be to un<g ref="char:EOLhyphen"/>derſtand natural Cauſes and Events, to know the Courſes of the Sun, Moon and Stars; the qualities of Herbs and Plants; to be acquain<g ref="char:EOLhyphen"/>ted with the demonſtrable Verities of the Ma<g ref="char:EOLhyphen"/>thematicks; the ſtudy of Philoſophy; the Writ<g ref="char:EOLhyphen"/>ings of the Antients, and that in their own pro<g ref="char:EOLhyphen"/>per Language, without the help of an Inter<g ref="char:EOLhyphen"/>preter: Theſe and the like are the moſt noble Accompliſhments of a human Soul, and accord<g ref="char:EOLhyphen"/>ingly do bring great delight and ſatisfaction a<g ref="char:EOLhyphen"/>long
+<pb n="24" facs="tcp:34403:18"/>with them; and theſe things ſhe was not only converſant in, but Miſtreſs of; and that to ſuch a Degree that few, very few of her Sex did ever arrive at.</p>
+            <p>She had from her Infancy been train'd up in the knowledge of theſe things, and had made a great Progreſs therein; and even in her green years, at the Age of twenty three, was arrived to the knowledge of a bearded Philoſopher.</p>
+            <p>But that which is moſt our wonder is; that one ſo young of an infirm Conſtitution, and of the tendereſt Sex, not accuſtomed to the advantages of the Philoſophick Schools, ſhould in the hard and knotty Arguments of Metaphyſical Learning, be a moſt nervous and ſubtle Diſputant And therefore, let none Deſpair or complain of the roughneſs of the Path, or the acclivity of Vertues hill; for ſhe was a clear and lively inſtance, that neither the Crabbedneſs of Languages, nor the Abſtruſeneſs of Arts and Sciences can be too hard for Diligence and Application.</p>
+            <p>It is not long ſince that ſhe took great Pains to perfect her knowledge in the Greek Tongue, that ſhe might with greater Pleaſure, read that elegant Father St. <hi>Chryſoſtome,</hi> in his own pure and native Style. Her being very well ac<g ref="char:EOLhyphen"/>quainted
+<pb n="25" facs="tcp:34403:18"/>with the Greek Teſtament, in which ſhe was much converſtant, was a great help to improve her Skill in that Language. She was not only ſatisfied with reading, but having an Eye to that ſaying of the Great Poet, <hi>Semper ego Auditor tantum,</hi> ſhe ſet her ſelf to the Com<g ref="char:EOLhyphen"/>poſing of many things in the Latine Tongue, which were rare and uſeful in their kind, and which I have ſeen with abundance of delight and ſatisfaction. Wherein it does appear that ſhe had a Beauty in her Style, as well as in her Countenance, and if they ſhall be made pub<g ref="char:EOLhyphen"/>lick, will be the Admiration, as well as the En<g ref="char:EOLhyphen"/>tertainment of the thinking pate of Mankind. She had indeed a vaſt and comprehenſive Knowledge, a large and exalted Mind, a ſtrong and capacious Memory, ſtill coveting more and more Knowledge; and in this Particular alone ſhe would often ſay, <hi>It was a ſin to be contented with but a little.</hi>
+            </p>
+            <p>But after all this, with what profound Hu<g ref="char:EOLhyphen"/>mility, with what Proſtration of Mind would ſhe cry out with St. <hi>Paul,</hi>
+               <note place="margin">Philip. 3.8.</note>
+               <hi>I count all theſe things but loſs, for Excellency of the knowledge of Chriſt Jeſus my Lord.</hi>
+            </p>
+            <p>In which ſtudy ſhe was no ſmall Proficient, and has often by her nervous Arguments, and
+<pb n="26" facs="tcp:34403:19"/>by the Grace of God which was in her, put to ſilence ſome of thoſe bold Men, who have at<g ref="char:EOLhyphen"/>tempted, (even in theſe our days, when the light of the Goſpel is ſo clearly ſhining among us) to revive that old and baffl'd Hereſie of <hi>So<g ref="char:EOLhyphen"/>cinus:</hi> And ſhe did much lament that ſuch lewd Opinions ſhould gain any Footing, or the leaſt Entertainment among thoſe that profeſs the Re<g ref="char:EOLhyphen"/>ligion of the Crucify'd Jeſus.</p>
+            <p>I have heard her ſay, That human Learning was worth nothing, unleſs as a Handmaid it lead to the knowledge of Chriſt revealed in the Goſpel, <hi>as our only Jeſus, our Lord and Saviour.</hi>
+            </p>
+            <p>And would Diſcourſe very finely after this manner.</p>
+            <p>
+               <hi>What availeth</hi> Solomons <hi>Skill in all the works of Nature, if by them we be not brought to ſee the God of Nature?</hi>
+            </p>
+            <p>
+               <hi>What is it,</hi> ſaith ſhe, <hi>to be ſo Skilful in Aſtronomy, as that by the Motions of the Heavens, we can foretel things here below, if we never ſtudy by our Holy Pra<g ref="char:EOLhyphen"/>ctices to come thither?</hi>
+            </p>
+            <p>
+               <hi>What is it to be ſo Skilful in Arithmetick, as that we can divide, and ſub divide to the ſmalleſt Fracti<g ref="char:EOLhyphen"/>ons; if (as God hath revealed unto us in his Holy Word)</hi> We do not ſo learn to number our days, <note place="margin">Pſal. 90.12.</note> that we may apply our hearts unto Wiſdom.</p>
+            <pb n="27" facs="tcp:34403:19"/>
+            <p>
+               <hi>What is it</hi> (ſays ſhe) <hi>for a Phyſician to be skilful in foreſeeing and preventing the Diſeaſes of the Body, if (as God hath revealed unto him) he knoweth not where to find that</hi> Balm of Gilead, <note place="margin">Jerem. 46.11.</note>
+               <hi>the Wine and Oyl of that</hi> Samaritan, <hi>the Lord Jeſus, to pour into the feſter'd Wounds of his own Soul and Conſcience.</hi>
+            </p>
+            <p>Such as this was her frequent Diſcourſe, and will well enough lead me to the ſecond Grace that did ſhine in her moſt brightly, and that was her Piety.</p>
+            <p>And that as it branches it ſelf out into theſe two known Duties, Publick and Private.</p>
+            <p>As for the Publick, ſhe was a conſtant fre<g ref="char:EOLhyphen"/>quenter of the Word and Sacrament, and the Prayers of the Church, which call for our daily attendance: She never miſs'd, unleſs hinder'd by ſome bodily Infirmity, to which of late ſhe had been too ſubject.</p>
+            <p>Her Private Piety and Devotion was no leſs, by which ſhe dieted her Soul; and in her Chamber, with holy <hi>David, ſhe communed with her own heart,</hi>
+               <note place="margin">Pſal.
+4.4.</note> privately examining the State and Condition of her own Soul, that <hi>ſhe might ſtand in awe, and not ſin.</hi>
+            </p>
+            <p>She greedily catch'd at all opportunities of Retirement, that ſhe might have the better en<g ref="char:EOLhyphen"/>tercourſe with Heaven; as knowing the ſureſt
+<pb n="28" facs="tcp:34403:20"/>way of overcoming the World, and living a<g ref="char:EOLhyphen"/>bove it, was to ſequeſter her ſelf from in; and the beſt Preparatory for Death, was dying daily in holy Solitude and Privacy. By which ſhe had ſo diſpos'd her Mind for the time of her Diſſolution, that it pleaſed God to give her ſome diſtant preſages of it.</p>
+            <p>For it is two years ſince her Meditations leading her in her ſolitary Walks into this Church-yard; and reſting her ſelf here in the Porch, and no doubt ruminating on her Mor<g ref="char:EOLhyphen"/>tality, which the place ſuggeſted to her, a ſud<g ref="char:EOLhyphen"/>den Thought, a ſtrong Impulſe broke in upon her Mind, that in a ſhort time ſhe ſhould die, and be buried in this very Church-yard; which was ſo far from caſting any Horror or Melan<g ref="char:EOLhyphen"/>choly upon her Spirits, that on the contrary, it made her in love with the place, and did ever after deſire to retire hither, and did accordingly chooſe it for her Burial-place.</p>
+            <p>The third thing, that I mention'd was her Charity, which perhaps you will think, under her Circumſtances, could not be very extraor<g ref="char:EOLhyphen"/>dinary as to the Sums, yet was it ſo as to the Chearfulneſs and Conſtancy of her giving; for what ever her Allowance was, ſhe duly laid a<g ref="char:EOLhyphen"/>ſide a certain portion of it to charitable and pi<g ref="char:EOLhyphen"/>ous
+<pb n="29" facs="tcp:34403:20"/>uſes: Neither did her Charity reſt here, but raiſed it ſelf to a higher degree of Spirituality, and beyond the ſcene of this World: She had a great love for the Souls of Men; was heartily afflicted with the Errors, Follies, and Vices of this preſent Age, to ſee that thoſe who called them<g ref="char:EOLhyphen"/>ſelves Chriſtians, ſhould by bad Principles and worſe Practice, diſhonour their Profeſſion, and not only hazard their own Salvation, but that of their weak Brother too, for whom Chriſt dy'd: And this temper of mind made her not only importunate in her Interceſſions for the good of the World, but gave her Courage and Diſcre<g ref="char:EOLhyphen"/>tion above her Years or Sex, to benefit the Souls of thoſe ſhe converſed with, by friendly Re<g ref="char:EOLhyphen"/>proof, good Counſel, or ſome learned or pious Diſcourſe.</p>
+            <p>In the exerciſe of this Chriſtian Love ſhe liv'd, in this ſhe died; and: here that I may not be thought to flouriſh only in this matter, be plea<g ref="char:EOLhyphen"/>ſed to underſtand, that ſhe deſir'd me on her Death-bed, that I would exhort all young peo<g ref="char:EOLhyphen"/>ple to the ſtudy of Wiſdom and Knowledge, as the means to improve their Vertues, and bring them to the trueſt Happineſs: And this, I think, I cannot do better than in the words which were taken from her own Mouth, juſt upon
+<pb n="30" facs="tcp:34403:21"/>her departure, when her Soul was hovering up<g ref="char:EOLhyphen"/>on her Lips, ready to take the wing for that other World.</p>
+            <p>Her words were theſe, which were faithfully Pen'd down and deliver'd into my hands.</p>
+            <p>
+               <hi>I deſire</hi> (ſays ſhe) <hi>that all young People may be exhorted to the Practice of Vertue, and to encreaſe their Knowledge by the ſtudy of Philoſophy, and mote eſpecially to read the great Book of Nature, where<g ref="char:EOLhyphen"/>in they may ſee the Wiſdom and Power of the Great Creator, in the Order of the Univerſe, and in the Production, and Preſervation of things; For</hi> Quaelibet herba Deum. This was a Language which was very familiar to her, and if you would know the Engliſh of it, ſhe would have you to underſtand thus much by it; that the leaſt Spire of Graſs, as well as the Lillies of the Field do demonſtrate the Being of a God. She proceeds,
+<hi>It will fix in their Minds a Love to ſo much Perfecti<g ref="char:EOLhyphen"/>on, frame a Divine Idea, and an awful regard of God, which will highten Devotion, and lower the Spi<g ref="char:EOLhyphen"/>rit of Pride, and give a Habit and Diſpoſition to his Service; it will make us tremble at Folly and Pro<g ref="char:EOLhyphen"/>faneneſs, and command Reverence and Proſtration to his Great and Holy Name.</hi>
+            </p>
+            <p>
+               <hi>That Women,</hi> (ſays ſhe) <hi>are capable of ſuch Improvements, which, will better their Judgments and
+<pb n="31" facs="tcp:34403:21"/>
+                  <g ref="char:V">Ʋ</g>nderſtandings, is paſt all doubt; would they but ſet to't in earneſt, and ſpend but half of that time in ſtudy and thinking, which they do in Viſits, Vanity, and Toys. 'Twould introduce a compoſure of Mind, and lay a ſound Baſis, and Ground-work for Wiſdom and Knowledge; by which they would be the better enabled to ſerve God, and help their Neighbours.</hi>
+            </p>
+            <p>Thus far this rare Young Woman.</p>
+            <p>And after ſuch Rhetorical Lines as theſe, ſuch powerful Exhortations, what can I add, what can I ſubjoin, but what will fall ſhort, very ſhort of what this young Diſciple has laid before you?</p>
+            <p>She joyns with <hi>Moſes</hi> and the Prophets, in what they have declar'd unto you; and if you would have a Preacher from the dead, why may not a dying Preacher prove as effectual; eſpecially to thoſe of her own Sex, to whom ſhe does moſt paſſionately apply her ſelf. Let her words be as powerful upon you, as if ſhe did actually riſe from the dead, to your Convicti<g ref="char:EOLhyphen"/>on; for otherwiſe, ſince ſhe has given you this Admo<g ref="char:EOLhyphen"/>nition, ſhe may one day riſe up in judgement againſt you.</p>
+            <p>And here I could weep heartily if it were not to ſhew the Weakneſs of my Nature; but I will lament the loſs of ſo excellent a Creature, ſo rare a Pattern of ſo much Vertue, ſo much Goodneſs, ſo much Piety.</p>
+            <p>And what ſhall I more ſay; for the time would fail me to tell of her Meekneſs and Patience, Temperance and Chaſtity, Modeſty and Humility; theſe are moral Vertues, and in the Practice of which ſhe was very exact, and this brings into my Mind what I heard from her when we were Diſcourſing of moral Vertues, ſome few weeks before her Departure: <hi>Morality</hi> (ſays ſhe) <hi>is the Life of Religion; but our moral Actions unleſs in<g ref="char:EOLhyphen"/>fluenc'd
+<pb n="32" facs="tcp:34403:22"/>by our Religion, are of no uſe;</hi> as judging no doubt, according to the Opinion of St. <hi>Auſtin;</hi> that our beſt Actions without Faith in Chriſt were but
+<hi>ſplendida peccata,</hi> like the Apples of <hi>Sodom,</hi> of more ſhew than Value.</p>
+            <p>Much more I might repeat to you, to this Purpoſe, excellent Sayings that proceeded out of her Mouth, and worthy to be recorded from Generation to Gene<g ref="char:EOLhyphen"/>ration. The nearer ſhe drew to her End, ſhe mani<g ref="char:EOLhyphen"/>feſted to all that came to ſee her, the great Content<g ref="char:EOLhyphen"/>ment that ſhe had in. her approaching Death, declar<g ref="char:EOLhyphen"/>ing that to her, it did appear no other than the putting off her Clothes; a Diſrobing; that this Mortal part might put on Immortality. By all which it does appear, that ſhe has ſet before you a moſt excellent Example, and that in an Age expos'd to the greateſt Temptations.</p>
+            <p>And therefore we may well turn the words of the Text into a Lamentation, and ſay Alas!
+<hi>That there ſhould be no more remembrance of t he Wiſe than of the Fool for ever? That what now is in the days to come ſhould be forgotten?</hi> And that the wiſe Man, and the wiſe Wo<g ref="char:EOLhyphen"/>man too, <hi>ſhould die even as the Fool.</hi>
+            </p>
+            <p>I conclude in the words of the ſame Author, <hi>Prov.</hi> 31.29. <hi>Many Daughters have done vertuouſly, but thou excelleſt them all.</hi>
+            </p>
+            <p>
+               <hi>God Almighty give us Grace to labour that we may excel in Wiſdom, and Vertue, and true Piety; and then however our Name, or our Remembrance be loſt here on Earth, yet we ſhall have a Name written in Heaven, for better than that of Sons and of Daugh<g ref="char:EOLhyphen"/>ters, which God of his infinite Mercy grant.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
